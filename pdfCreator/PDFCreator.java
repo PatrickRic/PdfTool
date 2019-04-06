@@ -15,8 +15,7 @@ import com.itextpdf.layout.element.Image;
 import com.itextpdf.io.image.ImageDataFactory;
 
 /**
- * Creates pdfs with the use of itextpdf
- * 
+ * Creates pdfs with the use of itextpdf which is under the AGPL license.
  * @author Patrick
  *
  */
